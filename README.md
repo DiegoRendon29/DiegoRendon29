@@ -15,6 +15,7 @@ Tengo una maestría enfocada en procesamiento de datos. Mi licenciatura es en In
 * Reports with PoweBI or excels approaches.
 * Machine learning with tensorflow and scikit-learn.
 * Web devolpment with Python Flask.
+* Big data with aws tools.
 
 ### 🔎**Some of my projects**
 Look some of my [projects](URL del enlace)
