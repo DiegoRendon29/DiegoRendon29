@@ -18,7 +18,7 @@ Tengo una maestría enfocada en procesamiento de datos. Mi licenciatura es en In
 * Big data with aws tools.
 
 ### 🔎**Some of my projects**
-Look some of my [projects](URL del enlace)
+Look some of my [projects](https://github.com/DiegoRendon29/Portfolio-Guide/blob/main/README.md)
 ### 💻**Contact information**
 * Mail: Luisdiegorendon@gmail.com
 * linkedin profile: https://www.linkedin.com/in/luis-diego-rendon-aguilar-a1259b30a/
