@@ -2,6 +2,10 @@
 
 Hello, I am a data analyst passionate about uncovering insights and valuable information from data. I specialize in data analysis, creating detailed reports, visualizing data effectively, and using artificial intelligence to develop data-driven solutions. Additionally, I have experience building web applications to help small businesses manage and optimize their processes.
 
+
+### 🏫**My background**
+I hold a master's degree focused on data processing. My bachelor's degree is in Biomedical Engineering, where I specialized in analyzing signals from the human body.
+
 ### 🛠️**Tools**
 * Languages: Python, Javascript, SQL.
 * Visualization: Tableau, Ploty.
@@ -10,7 +14,7 @@ Hello, I am a data analyst passionate about uncovering insights and valuable inf
 * Web devolpment with Python Flask.
 
 ### 🔎**Some of my projects**
-
+Look some of my [projects](URL del enlace)
 ### 💻**Contact information**
 * Mail: Luisdiegorendon@gmail.com
 * linkedin profile: https://www.linkedin.com/in/luis-diego-rendon-aguilar-a1259b30a/
