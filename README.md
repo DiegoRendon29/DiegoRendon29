@@ -2,9 +2,12 @@
 
 Hello, I am a data analyst passionate about uncovering insights and valuable information from data. I specialize in data analysis, creating detailed reports, visualizing data effectively, and using artificial intelligence to develop data-driven solutions. Additionally, I have experience building web applications to help small businesses manage and optimize their processes.
 
+Hola, soy un analista de datos apasionado por descubrir información valiosa e insights a partir de los datos. Me especializo en análisis de datos, creación de reportes detallados, visualización efectiva de datos y en el uso de inteligencia artificial para desarrollar soluciones basadas en datos. Además, tengo experiencia en la construcción de aplicaciones web para ayudar a pequeñas empresas a gestionar y optimizar sus procesos.
 
 ### 🏫**My background**
 I hold a master's degree focused on data processing. My bachelor's degree is in Biomedical Engineering, where I specialized in analyzing signals from the human body.
+
+Tengo una maestría enfocada en procesamiento de datos. Mi licenciatura es en Ingeniería Biomédica, donde me especialicé en el análisis de señales del cuerpo humano.
 
 ### 🛠️**Tools**
 * Languages: Python, Javascript, SQL.
