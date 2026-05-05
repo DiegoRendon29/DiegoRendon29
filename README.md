@@ -1,21 +1,58 @@
 ## About me, Diego Rendon
 
-Hello, I am a data analyst passionate about uncovering insights and valuable information from data. I specialize in data analysis, creating detailed reports, visualizing data effectively, and using artificial intelligence to develop data-driven solutions. Additionally, I have experience building web applications to help small businesses manage and optimize their processes.
+Hello, I’m Diego
 
-Hola, soy un analista de datos apasionado por descubrir información valiosa e insights a partir de los datos. Me especializo en análisis de datos, creación de reportes detallados, visualización efectiva de datos y en el uso de inteligencia artificial para desarrollar soluciones basadas en datos. Además, tengo experiencia en la construcción de aplicaciones web para ayudar a pequeñas empresas a gestionar y optimizar sus procesos.
+Machine Learning Engineer focused on building predictive models that are accurate, explainable, and usable in real-world scenarios.
 
-### 🏫**My background**
-I hold a master's degree focused on data processing. My bachelor's degree is in Biomedical Engineering, where I specialized in analyzing signals from the human body.
+I specialize in helping teams improve their models, understand how they work, and turn data into reliable decisions.
 
-Tengo una maestría enfocada en procesamiento de datos. Mi licenciatura es en Ingeniería Biomédica, donde me especialicé en el análisis de señales del cuerpo humano.
+What I Do
+Build machine learning models for classification and prediction
+Improve existing models (accuracy, feature selection, performance)
+Implement Explainable AI (XAI) to understand model decisions
+Clean and preprocess complex datasets
+Transform Excel-based workflows into scalable SQL systems
+Create simple interfaces to interact with models
+Generate clear reports for decision-making
 
-### 🛠️**Tools**
-* Languages: Python, Javascript, SQL.
-* Visualization: Tableau, Ploty.
-* Reports with PoweBI or excels approaches.
-* Machine learning with tensorflow and scikit-learn.
-* Web devolpment with Python Flask.
-* Big data with aws tools.
+Focus Areas
+Machine Learning & Predictive Modeling
+Explainable AI (XAI)
+Model Optimization & Feature Selection
+Biomedical Data Analysis
+Data Preprocessing & Cleaning
+
+
+Tech Stack
+Python (scikit-learn, pandas, NumPy)
+SQL (database design & optimization)
+Machine Learning (TensorFlow, scikit-learn)
+Data Visualization (Plotly, Tableau)
+Web apps (Flask)
+
+
+Focus:
+
+Model interaction
+Visualization
+Explainability
+Signal analysis
+Model interpretation
+Feature importance
+Model Optimization with Metaheuristics
+
+🎓 Background
+
+Biomedical Engineer with a Master’s degree in Data Processing.
+Currently pursuing a PhD in Computational Sciences, focused on machine learning and explainability.
+
+📫 Let’s Connect
+
+Open to:
+
+Freelance projects
+Part-time opportunities
+Machine Learning & AI collaborations
 
 ### 🔎**Some of my projects**
 Look some of my [projects](https://github.com/DiegoRendon29/Portfolio-Guide/blob/main/README.md)
