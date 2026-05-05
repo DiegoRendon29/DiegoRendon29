@@ -6,7 +6,7 @@ Machine Learning Engineer focused on building predictive models that are accurat
 
 I specialize in helping teams improve their models, understand how they work, and turn data into reliable decisions.
 
-What I Do
+## What I Do
 Build machine learning models for classification and prediction
 Improve existing models (accuracy, feature selection, performance)
 Implement Explainable AI (XAI) to understand model decisions
@@ -15,15 +15,14 @@ Transform Excel-based workflows into scalable SQL systems
 Create simple interfaces to interact with models
 Generate clear reports for decision-making
 
-Focus Areas
+## Focus Areas
 Machine Learning & Predictive Modeling
 Explainable AI (XAI)
 Model Optimization & Feature Selection
 Biomedical Data Analysis
 Data Preprocessing & Cleaning
 
-
-Tech Stack
+## Tech Stack
 Python (scikit-learn, pandas, NumPy)
 SQL (database design & optimization)
 Machine Learning (TensorFlow, scikit-learn)
@@ -31,7 +30,7 @@ Data Visualization (Plotly, Tableau)
 Web apps (Flask)
 
 
-Focus:
+## Focus:
 
 Model interaction
 Visualization
@@ -46,19 +45,26 @@ Model Optimization with Metaheuristics
 Biomedical Engineer with a Master’s degree in Data Processing.
 Currently pursuing a PhD in Computational Sciences, focused on machine learning and explainability.
 
-📫 Let’s Connect
+## 🔎 Featured Projects
 
-Open to:
+Explore some of my work here:  
+👉 [Portfolio & Projects](https://github.com/DiegoRendon29/Portfolio-Guide/blob/main/README.md)
 
-Freelance projects
-Part-time opportunities
-Machine Learning & AI collaborations
+---
 
-### 🔎**Some of my projects**
-Look some of my [projects](https://github.com/DiegoRendon29/Portfolio-Guide/blob/main/README.md)
-### 💻**Contact information**
-* Mail: Luisdiegorendon@gmail.com
-* linkedin profile: https://www.linkedin.com/in/luis-diego-rendon-aguilar-a1259b30a/
+## 💻 Contact
+
+📩 Email: luisdiegorendon@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/luis-diego-rendon-aguilar-a1259b30a/
+
+---
+
+## 🚀 Open to Opportunities
+
+I’m open to:
+- Freelance projects  
+- Part-time roles  
+- Machine Learning & AI collaborations
 <!--
 **DiegoRendon29/DiegoRendon29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
